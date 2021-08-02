@@ -1,1 +1,1 @@
-This map is a list of my 6 favorite locations.
+This is a map with my 6 favorite locations.
